@@ -14,7 +14,7 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url("Grocery.jpg")no-repeat;
+    background: url("grocery.jpg")no-repeat;
     background-size: 1500px 600px;
 }
 header{
